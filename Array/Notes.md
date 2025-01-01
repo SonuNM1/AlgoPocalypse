@@ -3,9 +3,11 @@
 
 - Find the minimum and maximum element in the array 
 
-- reverse the array 
+- reverse the array     ✅ 
 
 - Sort the given array 
+
+- Sorting algorithms (bubble sort, heap sort, merge sort, quick sort)
 
 - Find the Kth largest and Kth smallest number in an array . (using min-heap as well as max-heap) 
 

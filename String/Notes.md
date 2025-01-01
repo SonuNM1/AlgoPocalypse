@@ -1,7 +1,7 @@
 
- - Reverse a String 
+ - Reverse a String  ✅ 
 
- - Check if a String is a Palindrome 
+ - Check if a String is a Palindrome  ✅ 
 
  - Count Vowels and Consonants in a String 
 
