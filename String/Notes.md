@@ -3,7 +3,7 @@
 
  - Check if a String is a Palindrome  ✅ 
 
- - Count Vowels and Consonants in a String 
+ - Count Vowels and Consonants in a String  ✅ 
 
  - Remove Duplicates from a String 
 
