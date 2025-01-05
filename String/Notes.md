@@ -5,6 +5,8 @@
 
  - Count Vowels and Consonants in a String  ✅ 
 
+ - first non repeating character
+
  - Remove Duplicates from a String 
 
  - Find the First Non-Repeating Character 

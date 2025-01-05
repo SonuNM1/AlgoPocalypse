@@ -1,13 +1,22 @@
 
 - Find a peak element which is not smaller than its neighbours 
 
-- Find the minimum and maximum element in the array 
+- Find the minimum and maximum element in the array     ✅ 
 
 - reverse the array     ✅ 
 
 - Sort the given array 
 
-- Sorting algorithms (bubble sort, heap sort, merge sort, quick sort)
+### Sorting algos 
+
+- bubble sort       ✅
+
+- heap sort
+
+- merge sort
+
+- quick sort
+
 
 - Find the Kth largest and Kth smallest number in an array . (using min-heap as well as max-heap) 
 
