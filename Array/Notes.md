@@ -30,7 +30,9 @@
 
 - Move all the negatvie elements to one side of the array 
 
-- Find the union and intersection of two sorted arrays 
+- Find the intersection of two sorted arrays        ✅
+
+- Find the union of two sorted arrays 
 
 - find the missing integer      ✅
 
@@ -38,7 +40,7 @@
 
 - find duplicates in an array   ✅
 
-- Find common elements in two array (sorted) 
+- Find common elements in two array (sorted)    ✅ 
 
 - Find common elements in three array (sorted)
 

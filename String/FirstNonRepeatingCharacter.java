@@ -15,11 +15,11 @@ public class FirstNonRepeatingCharacter {
             inputMap.put(ch, inputMap.getOrDefault(ch, 0)+1) ; 
         }
 
-        System.out.println("\n Character and their count: ");
+        // System.out.println("\n Character and their count: ");
 
-        for(Map.Entry<Character, Integer> entry: inputMap.entrySet()){
-            System.out.println("\n Key: " + entry.getKey() + " Value: " + entry.getValue());
-        }
+        // for(Map.Entry<Character, Integer> entry: inputMap.entrySet()){
+        //     System.out.println("\n Key: " + entry.getKey() + " Value: " + entry.getValue());
+        // }
 
         for(char element: input.toCharArray()){
             if(inputMap.get(element) == 1){
