@@ -24,7 +24,9 @@ public class IntersectionMultipleArray {
         int n = arr.length;
 
         for (int[] insideArr : arr) {
+            
             // Use a temporary HashSet to avoid duplicates within the same array
+
             HashSet<Integer> uniqueElement = new HashSet<>();
 
             for (int num : insideArr) {
@@ -32,13 +34,14 @@ public class IntersectionMultipleArray {
             }
 
             // Update the frequency map for unique elements
+
             for (int num : uniqueElement) {
                 frequency.put(num, frequency.getOrDefault(num, 0) + 1);
             }
         }
 
         // Collect elements present in all arrays
-        
+
         List<Integer> result = new ArrayList<>();
         for (int num : frequency.keySet()) {
             if (frequency.get(num) == n) {
