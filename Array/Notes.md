@@ -18,7 +18,7 @@
 - quick sort
 
 
-- Find the Kth largest and Kth smallest number in an array . (using min-heap as well as max-heap) 
+- Find the Kth largest and Kth smallest number in an array . (using min-heap as well as max-heap)   ✅
 
 - Find the occurrence of an integer in the array        ✅
 
@@ -81,9 +81,9 @@
     Given an array of integers, find the three elements whose sum is the maximum among all possible triplets in the array.
 
 
-- Maximum Subarray (Kadane's Algorithm)     
+- Maximum Subarray (Kadane's Algorithm)         ✅ 
 
-- Find Lucky Integer in an Array            
+- Find Lucky Integer in an Array            ✅  
 
     Lucky integer is an integer that has frequency in the array equal to its value 
 
