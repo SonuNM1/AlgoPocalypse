@@ -6,29 +6,29 @@ import java.util.Map;
 public class FirstNonRepeatingCharacter {
     public static void main(String[] args) {
         
-        String input = "racing car" ; 
-        input = input.toLowerCase() ; 
+        String str = "racing car" ; 
+        str = str.toLowerCase() ; 
 
-        HashMap<Character, Integer> inputMap = new HashMap<>(); 
+        Map<Character, Integer> strMap = new HashMap<>() ; 
 
-        for(char ch: input.toCharArray()){
-            inputMap.put(ch, inputMap.getOrDefault(ch, 0)+1) ; 
+        // traversing through each character of the given string, and storing their frequency inside the hashmap 
+
+        for(char ch : str.toCharArray()){
+            strMap.put(ch, strMap.getOrDefault(ch, 0) + 1) ; 
         }
 
-        // System.out.println("\n Character and their count: ");
+        System.out.println("\n Printing character and their count");
 
-        // for(Map.Entry<Character, Integer> entry: inputMap.entrySet()){
-        //     System.out.println("\n Key: " + entry.getKey() + " Value: " + entry.getValue());
-        // }
+        for(Map.Entry<Character, Integer> entry : strMap.entrySet()){
+            System.out.println(" \n Key: " + entry.getKey() + " Value: " + entry.getValue());
+        }
 
-        for(char element: input.toCharArray()){
-            if(inputMap.get(element) == 1){
+        for(char element : str.toCharArray()){
+            if(strMap.get(element) == 1){
                 System.out.println("\n first non-repeating character: " + element);
-                break ; 
             }
         }
 
-        System.out.println("\n No non-repeating character found");
-
+        System.out.println("\n no non-repeating character found");
     }
 }
