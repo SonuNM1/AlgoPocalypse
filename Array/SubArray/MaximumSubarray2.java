@@ -1,3 +1,4 @@
+package SubArray;
 
 public class MaximumSubarray2 {
     public static void main(String[] args) {

@@ -1,3 +1,4 @@
+package SubArray;
 
 /*
 max subarray or kadane's algo, is about finding contiguous subarray within a given array, which has the largest sum

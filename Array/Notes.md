@@ -22,13 +22,15 @@
 
 - Find the occurrence of an integer in the array        ✅
 
-- Sort the array of 0s, 1s and 2s / Sort colors     
+- Sort the array of 0s, 1s and 2s / Sort colors         ✅
 
-- Subarray with given sum - Naive and Optimized  
+- Count pair with given sum 
+
+- Subarray with given sum - Naive and Optimized     ✅ 
 
 - Rotate an array to the left/right by D places
 
-- Move all the negatvie elements to one side of the array 
+- Move all the negatvie elements to one side of the array   ✅
 
 - Find the intersection of two sorted arrays        ✅
 
@@ -38,15 +40,17 @@
 
 - count pairs with the given sum 
 
-- find duplicates in an array   ✅
+- find duplicate (or multiple dupicates) in an array   ✅
+
+- remove duplicate 
 
 - Find common elements in two array (sorted)    ✅ 
 
-- Find common elements in three array (sorted)
+- Find common elements in three array (sorted)      ✅
 
-- Find the first repeating element in an array of integers 
+- Find the first repeating element in an array of integers  ✅ 
 
-- Find the first non-repeating element in a given array of integers 
+- Find the first non-repeating element in a given array of integers     ✅ 
 
 - Subarrays with equal 1s and 0s 
 
@@ -64,7 +68,7 @@
 
 - Product of array except self 
 
-- Maximum subarray
+- Maximum subarray (Kadane's algo)      ✅
 
 - Find minimum in rotated sorted array 
 
