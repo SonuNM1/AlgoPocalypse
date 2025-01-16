@@ -5,7 +5,9 @@ public class CountEvenOdd {
 
         int evenCount = 0, oddCount = 0 ; 
 
-        
+        for(int i=0 ; i < arr.length; i++){
+            
+        }        
 
     }   
 }
