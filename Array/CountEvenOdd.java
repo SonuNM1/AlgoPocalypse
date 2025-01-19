@@ -6,8 +6,15 @@ public class CountEvenOdd {
         int evenCount = 0, oddCount = 0 ; 
 
         for(int i=0 ; i < arr.length; i++){
-            
-        }        
+            if(arr[i] % 2 == 0){
+                evenCount++ ; 
+            }
+            else{
+                oddCount++ ; 
+            }
+        }    
+        
+        System.out.println("\nEven count: " + evenCount + " Odd count: " + oddCount);
 
     }   
 }
