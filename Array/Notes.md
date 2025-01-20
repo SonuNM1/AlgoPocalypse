@@ -24,7 +24,7 @@
 
 - Sort the array of 0s, 1s and 2s / Sort colors         ✅
 
-- Count pair with given sum 
+- Count pair with given sum         ✅
 
 - Subarray with given sum - Naive and Optimized     ✅ 
 
@@ -34,15 +34,15 @@
 
 - Find the intersection of two sorted arrays        ✅
 
-- Find the union of two sorted arrays 
+- Find the union of two sorted arrays   ✅
 
 - find the missing integer      ✅
 
-- count pairs with the given sum 
+- count pairs with the given sum        ✅
 
 - find duplicate (or multiple dupicates) in an array   ✅
 
-- remove duplicate 
+- remove duplicate  ✅
 
 - Find common elements in two array (sorted)    ✅ 
 
@@ -54,17 +54,17 @@
 
 - Subarrays with equal 1s and 0s 
 
-- Rearrange the array in alternating positive and negative items 
+- Rearrange the array in alternating positive and negative items        ✅ 
 
 - Find if there is any subarray with a sum equal to zero 
 
 - Find the factorial of a large number 
 
-- Check if pair with the given sum exists in array 
+- Check if pair with the given sum exists in array  ✅
 
 - Best time to buy and sell stock 
 
-- Find duplicates 
+- Find duplicates       ✅
 
 - Product of array except self 
 
@@ -72,7 +72,7 @@
 
 - Find minimum in rotated sorted array 
 
-- Two sum 
+- Two sum   ✅
 
 - Three sum 
 
