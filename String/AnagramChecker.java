@@ -1,5 +1,13 @@
 package String;
 
+/*
+They contain the same characters.
+Each character appears the same number of times.
+The order of characters does not matter.
+
+eg: listen and silent, triangle and integral 
+*/
+
 import java.util.Arrays;
 
 public class AnagramChecker {
