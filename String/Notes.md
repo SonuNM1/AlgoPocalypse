@@ -54,6 +54,8 @@
 
 - Divisible by 7 
 
+- Count the Frequency of a Specific Character in a String
+
 - String encryption
 
 - Largest word in dictionary 
