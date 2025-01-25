@@ -6,33 +6,33 @@
 
 - first non repeating character ✅
 
-- Remove Duplicates from a String
+- Remove Duplicates from a String   ✅
 
 - String order
 
-- Different permutations of a string
+- Different permutations of a string  ✅
 
-- Determine if two strings have a common substring
+- Determine if two strings have a common substring    ✅
 
-- Circular permutations
+- Circular permutations   ✅
 
 - Valid parenthesis (String, Stack)
 
-- Find the First Non-Repeating Character
+- Find the First Non-Repeating Character  ✅
 
-- Reverse string (in-place)
+- Reverse string (in-place) ✅
 
-- Print duplicate characters from a string
+- Print duplicate characters from a string    ✅
 
 - String reverse using recursion
 
-- Check if string contains digits
+- Check if string contains digits   ✅
 
-- Duplicate characters in a given string
+- Duplicate characters in a given string    ✅
 
-- Count of a given character in a string
+- Count of a given character in a string    ✅
 
-- Print the first non-repeated character from a string
+- Print the first non-repeated character from a string    ✅
 
 - Convert a given string into int like the atoi()
 
@@ -44,9 +44,9 @@
 
 - Convert byte array to String
 
-- Check if Two Strings are Anagrams
+- Check if Two Strings are Anagrams   ✅
 
-- Maximum occuring character in the String 
+- Maximum occuring character in the String    ✅
 
 - Roman Number to Integer 
 
@@ -54,7 +54,7 @@
 
 - Divisible by 7 
 
-- Count the Frequency of a Specific Character in a String
+- Count the Frequency of a Specific Character in a String   ✅
 
 - String encryption
 
@@ -70,22 +70,23 @@
 
   Problem: Return the index of the first occurrence of a substring in a string, or -1 if the substring is not part of the string.
 
-- Count the Number of Words in a String
+- Count the Number of Words in a String   ✅
 
-- Count the number of characters in the string
+- Count the number of characters in the string    ✅
 
 - Check if a String is a Valid Shuffle of Two Distinct Strings
+
 - Find the Longest Palindromic Substring
 
-- Find All Substrings of a String
+- Find All Substrings of a String   ✅
 
-- Check if a String Contains Only Digits
+- Check if a String Contains Only Digits    ✅
 
 - Longest Substring Without Repeating Characters
 
 - Convert a String to Lowercase
 
-- Find the Most Frequent Character in a String
+- Find the Most Frequent Character in a String    ✅
 
 - Remove All Spaces from a String
 
@@ -93,11 +94,11 @@
 
   Implement a method to perform basic string compression using the counts of repeated characters.
 
-- Check if a String is a Subsequence (order same, contiguous not necessary) of Another String.
+- Check if a String is a Subsequence (order same, contiguous not necessary) of Another String.    ✅
 
   Given two strings, check if the first string is a subsequence of the second.
 
-- Check if a String is a Substring (contiguous) of Another String
+- Check if a String is a Substring (contiguous) of Another String     ✅
 
 No, subsequence and substring are not the same thing. Here's the difference:
 
@@ -125,8 +126,8 @@ Order: In a subsequence, the order of characters must be maintained, but they do
 
 Contiguity: A substring requires the characters to be contiguous (consecutive) in the original string, while a subsequence does not.
 
-- Permutations of a String
+- Permutations of a String    ✅
 
   Write a function to print all permutations of a given string.
 
-- Leap year
+- Leap year   ✅
