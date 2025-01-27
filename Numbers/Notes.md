@@ -11,17 +11,19 @@
     
     Example: Input: 121 → Output: true
 
-- Armstrong Number
+- Armstrong Number          ✅ 
 
     Problem: Check if a number is an Armstrong number (sum of its digits raised to the power of the number of digits equals the number).
     
     Example: Input: 153 → Output: true
 
-- Prime Number Check
+- Prime Number Check           ✅
 
     Problem: Check if a number is prime.
 
-- Count Digits in a Number
+- Sum of prime numbers upto n       ✅
+
+- Count Digits in a Number      ✅
 
     Problem: Count the number of digits in a given number.
     
@@ -33,29 +35,33 @@
     
     Example: Input: 12, 15 → Output: GCD = 3, LCM = 60
 
-- Factorial of a Number
+- Factorial of a Number         ✅
 
     Problem: Calculate the factorial of a number.
 
     Example: Input: 5 → Output: 120
 
--  Fibonacci Sequence
+-  Fibonacci Sequence       ✅ 
 
     Problem: Print the Fibonacci sequence up to 𝑛-th term.
 
     Example: Input: 5 → Output: 0, 1, 1, 2, 3
 
-- Check Perfect Number
+- Fibonacci Sum             ✅ 
+
+- Check Perfect Number      ✅
 
     Problem: Check if a number is a perfect number (sum of its proper divisors equals the number).
     
     Example: Input: 6 → Output: true
 
-- Find Factors of a Number
+- Find Factors of a Number  ✅ 
 
     Problem: Print all the factors of a number.
 
     Example: Input: 12 → Output: 1, 2, 3, 4, 6, 12
+
+- Proper divisor        ✅ 
 
 - Check for Power of Two
 
