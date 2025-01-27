@@ -8,7 +8,7 @@
 
 - Remove Duplicates from a String   ✅
 
-- String order
+- String order  ✅
 
 - Different permutations of a string  ✅
 
@@ -36,7 +36,7 @@
 
 - Convert a given string into int like the atoi()
 
-- Check if two strings are a rotation of each other
+- Check if two strings are a rotation of each other   ✅
 
 - Length of the longest substring without repeating characters
 
@@ -60,7 +60,7 @@
 
 - Largest word in dictionary 
 
-- Remove given character from String 
+- Remove given character from String  ✅
 
 - Longest Common Prefix
 
@@ -83,8 +83,6 @@
 - Check if a String Contains Only Digits    ✅
 
 - Longest Substring Without Repeating Characters
-
-- Convert a String to Lowercase
 
 - Find the Most Frequent Character in a String    ✅
 
