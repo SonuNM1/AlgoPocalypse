@@ -29,7 +29,7 @@
     
     Example: Input: 12345 → Output: 5
 
--  GCD and LCM
+-  GCD and LCM          ✅
 
     Problem: Calculate the greatest common divisor (GCD) and least common multiple (LCM) of two numbers.
     
@@ -63,7 +63,7 @@
 
 - Proper divisor        ✅ 
 
-- Check for Power of Two
+- Check for Power of Two        ✅
 
     Problem: Check if a number is a power of 2.
 

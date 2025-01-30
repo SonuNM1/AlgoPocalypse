@@ -9,7 +9,7 @@ public class PowerOfTwo {
             System.out.println("\n" + num + " is a power of 2");
         }
         else{
-            System.out.println("\n" + num + " is a power of 2"); 
+            System.out.println("\n" + num + " is not a power of 2"); 
         }
     }
 
