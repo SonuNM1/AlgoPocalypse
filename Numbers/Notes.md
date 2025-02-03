@@ -69,25 +69,25 @@
 
     Example: Input: 8 → Output: true
 
-- Decimal to Binary Conversion
+- Decimal to Binary Conversion      ✅
 
     Problem: Convert a decimal number to its binary representation.
     
     Example: Input: 10 → Output: 1010
 
-- Sum of First n Natural Numbers
+- Sum of First n Natural Numbers        ✅
 
     Problem: Calculate the sum of the first n natural numbers.
 
     Example: Input: 5 → Output: 15
 
-- Check if a Number is Divisible by the Sum of its Digits
+- Check if a Number is Divisible by the Sum of its Digits       ✅
 
     Problem: Check if a number is divisible by the sum of its digits.
 
     Example: Input: 18 → Output: true (sum of digits = 9, 18 % 9 == 0)
 
-- Count Prime Numbers up to n
+- Count Prime Numbers up to n       ✅
 
     Problem: Count how many prime numbers are there from 1 to n 
 
